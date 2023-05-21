@@ -5,6 +5,8 @@ categories: [프로세스]
 tags: [번역, DDD, Beginner]
 ---
 
+초보자를 위한 DDD(도메인 주도 설계) 모델링 프로세스를 배워봅시다!!
+
 > 본 자료는 제가 번역한 자료입니다 :smile: <br>
 > 원본: [ddd-crew (Github)](https://github.com/ddd-crew/ddd-starter-modelling-process) <br>
 > 번역 장소: [d4veloper (Github)](https://github.com/D4veloper/ddd-starter-modelling-process)

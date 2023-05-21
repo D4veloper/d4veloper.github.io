@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://d4veloper.github.io/sitemap.xml
